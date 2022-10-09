@@ -1,12 +1,16 @@
 # Welcome to My Profile
 
-Hello guys, I am **Massinissa Mouhoub** (Massi for short), I live in *Algeria*, and Im a **Computer Networking** sutdent in **USTHB** in *Algiers*.
+Hello guys, I am **Massinissa Mouhoub** (Massi for short), I live in *Algeria*, and Im a **Computer Science** student in **USTHB** in *Algiers*.
+I always want to learn more, gain knowledge and to be a better version of myself. I wanna achieve my goals and help others achieve theirs aswell.
 
-Im interested in: App developement, Ethical hacking.
+Im interested in: App developement, Web developement and Ethical hacking/Security.
 
-I know these programming languages: 
+Im currently learning :
+- Flutter.
+
+And I have some experience on :
 - C (beginner level).
-- Python (beginner level but Im currently studying so I hope I will reach the MASTER level)
-- Dart (beginner level but Im currently studying Flutter so I hope I will reach the MASTER level ALSO XD)
+- Python (beginner level)
+- Dart (beginner level but Im currently studying Flutter so I hope I will reach the MASTER level)
 - Html/Css/JavaScript (Just the basics).
 - Bash (Just the basics but its in my plan to master bash and python).
