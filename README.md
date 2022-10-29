@@ -9,7 +9,7 @@ Im currently learning :
 - Flutter.
 
 And I have some experience on :
-- C (beginner level).
+- C (medium level).
 - Python (beginner level)
 - Dart (beginner level but Im currently studying Flutter so I hope I will reach the MASTER level)
 - Html/Css/JavaScript (Just the basics).
