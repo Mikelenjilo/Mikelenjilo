@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a bioinformatics student and mobile developer. I'm currently learning AI and building my portfolio.<br>I have 2 years of Flutter mobile development.
+I'm a bioinformatics student and **Mobile Developer**. I'm currently learning AI and building my portfolio.<br>I have 2 years of Flutter mobile development.
 
 
 ## 🌐 Socials:
