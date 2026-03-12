@@ -1,7 +1,7 @@
 # 💫 About Me:
 Welcome to my profile!
 
-I'm Massinissa MOUHOUB, a passionate mobile developer with 2 years of experience building Flutter applications from the ground up. If you have an idea, I can turn it into a fully functional, elegant, and high-performance mobile app.
+I'm Massinissa MOUHOUB, a passionate mobile developer with 4 years of experience building Flutter applications from the ground up. If you have an idea, I can turn it into a fully functional, elegant, and high-performance mobile app.
 
 Beyond Flutter development, I bring additional strengths to your project:
 - AI & Machine Learning integration: I can implement intelligent features such as predictions, classification, recommendations, and more.
