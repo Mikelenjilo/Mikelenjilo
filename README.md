@@ -1,15 +1,8 @@
 # 💫 About Me:
 Welcome to my profile!
 
-I'm Massinissa MOUHOUB, a passionate mobile developer with 4 years of experience building Flutter applications from the ground up. If you have an idea, I can turn it into a fully functional, elegant, and high-performance mobile app.
+Flutter developer with a Master's in Bioinformatics and published IEEE research — a combination that's rare in mobile development. I've built and shipped Flutter applications end-to-end, integrated AI features including LLM-based tools and recommendation engines, and worked within international product teams. I write code that scales: clean architecture, concurrency-safe, and built for real users.
 
-Beyond Flutter development, I bring additional strengths to your project:
-- AI & Machine Learning integration: I can implement intelligent features such as predictions, classification, recommendations, and more.
-- Advanced data processing: With a background in bioinformatics, I’m comfortable working with a wide range of data types — text, images, biological data, sensor data, etc.
-- Backend development & data centralization: I can design robust backend architectures to securely manage your app’s data.
-- Low-level reliability handling: I’m experienced in dealing with critical issues like concurrency, race conditions, and performance bottlenecks.
-
-Whether you need a complete mobile solution or advanced data-driven features, I can help you build a smooth, scalable, and reliable product.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/massi4551) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/https://www.facebook.com/massi.nissan.58/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/massi_berk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/massinissa-mouhoub) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@https://medium.com/@mouhoub.massinissa.2002) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/https://stackoverflow.com/users/19410411/mikelenjilo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:massinissa.mouhoub3@gmail.com) 
